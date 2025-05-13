@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lovepreetin
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning the concept of Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 People can rech by my linkedin which is lovepreet LNU
+- 📫 People can rech by my linkedin which is Lovepreet Singh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
