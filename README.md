@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Lovepreetin
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning the concept of Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 People can rech by my linkedin which is Lovepreet Singh
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m Learning Data Science/AI(ML)
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 People can rech by my linkedin which is www.linkedin.com/in/lovepreet-singh-9ab089322
 
 <!---
 Lovepreetin/Lovepreetin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
