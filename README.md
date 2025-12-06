@@ -44,16 +44,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovepreetin&show_icons=true&theme=dark"&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lovepreetin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   &nbsp;
-  <img src=<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreetin&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreetin&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreetin&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 ---
 
