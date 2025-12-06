@@ -38,9 +38,9 @@
 ---
 
 ## 🔭 Current Projects
-- **Insight AI** — Auto CSV analyzer & model builder (Streamlit + backend). `https://github.com/Lovepreetin/insight-ai`
-- **Walmart Sales Forecasting** — time series forecasting capstone. `link: https://github.com/USERNAME/walmart-forecast`
-- **COVID-19 Forecast** — epidemic forecasting project. `link: https://github.com/USERNAME/covid-forecast`
+- **Insight AI** — Auto CSV analyzer & model builder (Streamlit + backend). `ling: https://github.com/Lovepreetin/insight-ai`
+- **Walmart Sales Forecasting** — time series forecasting capstone. `link: https://github.com/Lovepreetin/walmart-forecast`
+- **COVID-19 Forecast** — epidemic forecasting project. `link: https://github.com/Lovepreetin/covid-forecast`
 
 ---
 
