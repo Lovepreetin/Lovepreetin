@@ -38,25 +38,9 @@
 ---
 
 ## 🔭 Current Projects
-- **Insight AI** — Auto CSV analyzer & model builder (Streamlit + backend). `link: https://github.com/Lovepreetin/insight-ai`
+- **Insight AI** — Auto CSV analyzer & model builder (Streamlit + backend). `https://github.com/Lovepreetin/insight-ai`
 - **Walmart Sales Forecasting** — time series forecasting capstone. `link: https://github.com/USERNAME/walmart-forecast`
 - **COVID-19 Forecast** — epidemic forecasting project. `link: https://github.com/USERNAME/covid-forecast`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovepreetin&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovepreetin&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg-self-hosted-stat-stats.vercel.app/api/top-langs/?username=Lovepreetin&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-
 
 ---
 
@@ -73,7 +57,4 @@
 
 ---
 
-<div align="center">
-  <sub>Profile README inspired by modern developer READMEs — built & curated by Lovepreet. </sub>
-</div>
 
