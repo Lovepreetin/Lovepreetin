@@ -53,8 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovepreetin&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterorg-self-hosted-stat-stats.vercel.app/api/top-langs/?username=Lovepreetin&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
 
 
 ---
