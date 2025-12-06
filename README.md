@@ -1,6 +1,6 @@
 <!-- Header / Photo -->
 <div align="center">
-  <img src="./banner.jpg" alt="banner" width="100%" />
+  <img src="./banner.png" alt="banner" width="100%" />
 
 </div>
 
