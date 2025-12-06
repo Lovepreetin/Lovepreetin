@@ -1,6 +1,6 @@
 <!-- Header / Photo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lovepreetin/Lovepreetin/main/profile-banner.jpg" alt="banner" width="100%" />
+  <img src="./banner.jpg" alt="banner" width="100%" />
 
 </div>
 
