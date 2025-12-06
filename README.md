@@ -1,6 +1,7 @@
 <!-- Header / Photo -->
 <div align="center">
-  <img src="https://github.com/Lovepreetin/Lovepreetin/blob/main/profile-banner.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Lovepreetin/Lovepreetin/main/profile-banner.png" alt="banner" width="100%" />
+
 </div>
 
 <h1 align="center">Hi, I'm Lovepreet </h1>
